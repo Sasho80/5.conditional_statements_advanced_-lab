@@ -12,5 +12,15 @@ input	output
 7	    Sunday
 -1	  Error
 
-02.Problem:  Holiday or working day
+02.Problem: Weekend or working day
 Write a program that reads the day of the week (text), in English - entered by the user. If the day is working, it prints on the console - "Working day", if it is a holiday - "Weekend". If a text other than a day of the week is entered, "Error" will be printed.
+
+input	  output
+Monday	Working day
+
+input	  output
+Sunday	Weekend
+
+input	  output
+April 	Error
+
