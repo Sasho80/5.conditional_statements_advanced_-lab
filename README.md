@@ -57,12 +57,13 @@ city / product	coffee	water	beer	sweets	peanuts
 Write a program that reads a product (text), a city (text), and a quantity (decimal number) entered by the user, 
 and calculates and prints how much the corresponding quantity of the selected product costs in the specified city.
 
-06.Problem: 
+06.Problem: Number in range 
 Write a program that checks if the number entered by the user is in the interval [-100, 100] and is different from 0 and outputs
 "Yes" if it meets the conditions or "No" if it does not.
 
 input	output		input	output		input	output
 -25	Yes		0	No		25	Yes
+
 			
 		
 
