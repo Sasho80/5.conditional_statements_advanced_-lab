@@ -35,4 +35,23 @@ dog	   mammal
 snake	 reptile
 cat	   unknown
 
+04.4. Obrŭshtenie spored vŭzrast i pol Da se napishe konzolna programa, koyato prochita vŭzrast (realno chislo) i pol ('m' ili 'f'), vŭvedeni ot potrebitelya, i otpechatva obrŭshtenie izmezhdu slednite: • "Mr." – mŭzh (pol 'm') na 16 ili poveche godini • "Master" – momche (pol 'm') pod 16 godini • "Ms." – zhena (pol 'f') na 16 ili poveche godini • "Miss" – momiche (pol 'f') pod 16 godini
+Показване на още
+371 / 5 000
+
+4. Problem: Personal titels
+Write a console program that reads the age (real number) and gender ('m' or 'f') entered by the user and prints an address from among the following:
+• "Mr." – male (gender 'm') aged 16 or over
+• "Master" – boy (gender 'm') under 16 years old
+• "Ms." – female (gender 'f') aged 16 or over
+• "Miss" – girl (gender 'f') under 16 years old
+
+input	output	input	output	input	output	input	output
+12            17    Mr.     25    Ms.	    13.5
+f	    Miss		m             f             m     Master
+			
+		
+
+
+
 
