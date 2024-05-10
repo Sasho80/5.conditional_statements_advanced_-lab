@@ -79,6 +79,11 @@ of a movie ticket according to the day of the week:
 
 Monday	Tuesday	 Wednesday	Thursday	Friday	Saturday	Sunday
 12	12	 14		14		12      16              16
+
+Sample input output
+input	output		input	output		input	output
+Monday	12		Friday	12		Sunday	16
+
 			
 	
 
