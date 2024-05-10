@@ -127,7 +127,27 @@ apple   2.40            orange  2.70         kiwi       6.75               grape
 Sunday                  Tuesday              Monday                        Saturday                     Monday
 3                       2                    2.5                           0.5                          0.5
 
-12.Problem: Trade comission
+12.Problem: Trade comissions
+A company gives the following commissions to its salespeople according to the city in which they work and the volume of sales:
+
+city	0 ≤ s ≤ 500	500 < s ≤ 1 000	  1 000 < s ≤ 10 000	s > 10 000
+Sofia	    5%	              7%	         8%	        12%
+Varna	  4.5%	            7.5%	        10%	        13%
+Varna	  4.5%	            7.5%	        10%	        13%
+
+Write a console program that reads city name (text) and sales volume (real number) entered by the user and calculates and outputs
+the trade commission amount according to the above table. Output the result formatted to 2 decimal places. Invalid city or sales 
+volume (negative number) to print "error".
+
+input	output		input	 output		                input	output		input	   output
+Sofia                   Plovdiv  27.50                          Varna   387.45          Kaspichan  error
+1500	120.00		499.99                                  3874.50                 -50
+			
+			
+	
+
+
+
 
 
 
