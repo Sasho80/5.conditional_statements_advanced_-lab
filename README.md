@@ -84,6 +84,16 @@ Sample input output
 input	output		input	output		input	output
 Monday	12		Friday	12		Sunday	16
 
+09.Problem: Fruit or vegetable
+To write a program that reads a product name entered by the user and checks whether it is a fruit or a vegetable.
+• "fruit" has the following possible values: banana, apple, kiwi, cherry, lemon and grapes;
+• Vegetables have the following possible values: tomato, cucumber, pepper and carrot;
+• All others are "unknown".
+Display "fruit", "vegetable" or "unknown" according to the product entered.
+
+Sample input and output
+input	output		input	output		input	output		input	output
+banana	fruit		apple	fruit		tomato	vegetable	water	unknown
 			
 	
 
