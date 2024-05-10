@@ -64,7 +64,7 @@ Write a program that checks if the number entered by the user is in the interval
 input	output		input	output		input	output
 -25	Yes		0	No		25	Yes
 
-07.Problem:
+07.Problem: Working hours
 To write a program that reads the hour of the day (integer) and the day of the week (text) - entered by the user and checks whether 
 the office of a company is open, with the working hours of the office being from 10 a.m. to 6 p.m., from Monday to Saturday inclusive
 
