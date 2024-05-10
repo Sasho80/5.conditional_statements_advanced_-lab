@@ -127,6 +127,8 @@ apple   2.40            orange  2.70         kiwi       6.75               grape
 Sunday                  Tuesday              Monday                        Saturday                     Monday
 3                       2                    2.5                           0.5                          0.5
 
+12.Problem: Trade comission
+
 
 
 
