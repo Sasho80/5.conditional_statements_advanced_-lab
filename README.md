@@ -94,6 +94,18 @@ Display "fruit", "vegetable" or "unknown" according to the product entered.
 Sample input and output
 input	output		input	output		input	output		input	output
 banana	fruit		apple	fruit		tomato	vegetable	water	unknown
+
+10.Problem: Invalid number
+A given number is valid if it is in the range [100…200] or is 0. Write a program that reads an integer entered by 
+the user and prints "invalid" if the entered number is not valid.
+
+input	output		input	output		                input	output		input	output
+75	invalid		150	(There is no way out)		220	invalid		199	(There is no way out)
+
+input	output		input	output		                input	output		                input	output
+-1	invalid		100	(There is no way out)		200	(There is no way out)		0	(There is no way out)
+
+
 			
 	
 
