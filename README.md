@@ -105,6 +105,32 @@ input	output		input	output		                input	output		input	output
 input	output		input	output		                input	output		                input	output
 -1	invalid		100	(There is no way out)		200	(There is no way out)		0	(There is no way out)
 
+11.Problem: Fruit shop
+The fruit shop operates at the following prices on working days:
+
+fruit	banana	apple	orange	grapefruit	kiwi	pineapple	grapes
+price   2.50	1.20	0.85	1.45	        2.70	5.50	        3.85
+
+On Saturdays and Sundays, the store operates at higher prices:
+
+fruit	banana	apple	orange	grapefruit	kiwi	pineapple	grapes
+price   2.70	1.25	0.90	1.60	        3.00	5.60	        4.20
+
+Write a program that reads from the console the following three variables entered by the user and calculates the price according to the prices in the tables above:
+• fruit - banana / apple / orange / grapefruit / kiwi / pineapple / grapes;
+• day of the week - Monday / Tuesday / Wednesday / Thursday / Friday / Saturday / Sunday;
+• quantity (real number).
+Print the result rounded to 2 decimal places. Invalid day of the week or invalid fruit name to print "error".
+
+input	output		input	output	     input	output		   input	output		input	output
+apple   2.40            orange  2.70         kiwi       6.75               grapes       2.10            tomato  error
+Sunday                  Tuesday              Monday                        Saturday                     Monday
+3                       2                    2.5                           0.5                          0.5
+
+
+
+
+
 
 			
 	
